@@ -1,0 +1,5 @@
+
+
+String s1 = "From: Robert Elz <kre@munnari.OZ.AU>";
+
+s1.startsWith("From")

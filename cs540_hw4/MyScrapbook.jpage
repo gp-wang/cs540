@@ -1,0 +1,14 @@
+ArrayList<String> a=new ArrayList<String>();
+
+a.add("Hello");
+a.add("There");
+a.add("Buddy");
+
+
+for (Iterator iterator = a.iterator(); iterator
+					.hasNext();) {
+				String str= (String) iterator.next();
+				System.out.println(str);
+			}
+
+System.out.println("Number: " + 4)

@@ -1,0 +1,6 @@
+int []a={1,2,3};
+a.length(int)
+
+15 % 10
+
+System.out.print(new String(" Hello" + 3 ));
